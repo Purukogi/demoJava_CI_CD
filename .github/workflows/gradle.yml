@@ -30,4 +30,4 @@ jobs:
         username: root
         password: totonono
         source: "build/libs/demo-deploiement-0.0.1-SNAPSHOT.jar"
-        taget: /home/jean/
+        target: /home/jean/
