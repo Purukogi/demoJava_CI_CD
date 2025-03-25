@@ -39,4 +39,4 @@ jobs:
         username: root
         password: totonono
         command_timeout: 30m
-        script: sudo systemctl restart my-app.service
+        script: sudo systemctl restart jean.service
